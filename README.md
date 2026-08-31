@@ -95,24 +95,4 @@ I work with **C++, C#, Java, PHP, C, HTML, CSS, and SQL**, and enjoy building de
 
 ---
 
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:reshad.munshi2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-reshad.munshi2004%40gmail.com-C9848E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://munshi-rishad.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-munshi--rishad.github.io-0F6D8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://github.com/munshi-rishad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:0F172A,52:0F6D8C,100:C9848E" />
