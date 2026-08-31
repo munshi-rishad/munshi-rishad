@@ -1,145 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:2C5364,100:00C9A7&text=Najiat%20Islam%20Rishad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=245&color=0:0B1120,50:1E3A5F,100:0E7490&text=Najiat%20Islam%20Rishad&fontSize=43&fontColor=FFFFFF&fontAlignY=41&desc=Computer%20Science%20Student%20%7C%20Software%20Development%20%7C%20Database%20Systems&descAlignY=61&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+AIUB;Building+Practical+Software+Applications;Learning+Something+New+Every+Day;Passionate+About+Software+Development;Open+to+Learning+%26+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+AIUB;Building+Practical+Software+Solutions;C%23+%7C+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+SQL;Interested+in+Software+Engineering+and+Databases;Open+to+Internship+Opportunities" alt="Typing introduction" />
 
 <br/>
 
 <a href="https://munshi-rishad.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-munshi--rishad.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A5F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://komarev.com/ghpvc/?username=munshi-rishad">
-  <img src="https://komarev.com/ghpvc/?username=munshi-rishad&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/munshi-rishad">
+  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/munshi-rishad?tab=followers">
-  <img src="https://img.shields.io/github/followers/munshi-rishad?label=FOLLOWERS&style=for-the-badge&color=F7007A&logo=github" alt="followers" />
-</a>
-<a href="mailto:najiyatislam2004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:reshad.munshi2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science student at **American International University-Bangladesh (AIUB)**
-- 📍 Based in **Dhaka, Bangladesh**
-- 💻 Specializing in **Software Development** and passionate about coding
-- 🧠 Interested in building **practical applications** and solving programming problems
-- 🌱 Continuously learning new technologies and improving my development skills
-- 🚀 Open to **learning, collaboration, and software development opportunities**
+I am **Najiat Islam Rishad**, a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)**. My primary interests are software development, database-driven applications, and building practical systems that solve real-world problems.
+
+- B.Sc. in **Computer Science & Engineering, AIUB**
+- Expected graduation: **September 2027**
+- Based in **Dhaka, Bangladesh**
+- Interested in **Software Development, Desktop Applications, Web Technologies, and Database Systems**
+- Focused on strengthening programming fundamentals, object-oriented design, database development, and clean software practices
+- Open to **software development internship opportunities** and collaborative projects
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-<b>Languages</b><br/>
-<img title="Java" src="https://skillicons.dev/icons?i=java" height="50"/>
-<img title="C#" src="https://skillicons.dev/icons?i=cs" height="50"/>
-<img title="C++" src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="50"/>
-<img title="PHP" src="https://skillicons.dev/icons?i=php" height="50"/>
+### Programming Languages
+
+<img title="C++" src="https://skillicons.dev/icons?i=cpp" height="48"/>
+<img title="Java" src="https://skillicons.dev/icons?i=java" height="48"/>
+<img title="C#" src="https://skillicons.dev/icons?i=cs" height="48"/>
+<img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="48"/>
+<img title="HTML" src="https://skillicons.dev/icons?i=html" height="48"/>
+<img title="CSS" src="https://skillicons.dev/icons?i=css" height="48"/>
 
 <br/><br/>
 
-<b>Frontend</b><br/>
-<img title="HTML" src="https://skillicons.dev/icons?i=html" height="50"/>
-<img title="CSS" src="https://skillicons.dev/icons?i=css" height="50"/>
+### Databases & Tools
 
-<br/><br/>
-
-<b>Databases</b><br/>
-<img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img title="SQL Server" src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="50"/>
-<img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
+<img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="48"/>
+<img title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" height="48"/>
+<img title="Git" src="https://skillicons.dev/icons?i=git" height="48"/>
+<img title="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/>
 
 </div>
 
-**Core Concepts:** Object-Oriented Programming (OOP) · Data Structures & Algorithms (DSA) · File Handling
+<p align="center">
+  <b>Additional experience:</b> SQL Server · Java Swing · Windows Forms · CRUD Operations · Authentication · Role-Based Access
+</p>
 
 ---
 
-## 📂 Featured Projects
+## Areas of Experience
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/munshi-rishad/FarmInvoiceManager-Repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=munshi-rishad&repo=FarmInvoiceManager-Repository&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/munshi-rishad/BusTicketCounterManagement-Repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=munshi-rishad&repo=BusTicketCounterManagement-Repository&theme=tokyonight&hide_border=true" />
-</a>
+### Application Development
 
-<br/>
+- Desktop application development with C# and Java
+- Windows Forms and Java Swing interfaces
+- Authentication and role-based access
+- Billing, invoice, inventory, and management workflows
 
-<a href="https://github.com/munshi-rishad/CoffeeShopBillingManagement-System-Repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=munshi-rishad&repo=CoffeeShopBillingManagement-System-Repository&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/munshi-rishad/Desktop-Based-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=munshi-rishad&repo=Desktop-Based-Calculator&theme=tokyonight&hide_border=true" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### Database Development
 
----
+- MySQL and SQL Server
+- Relational database design
+- CRUD operations and data management
+- Query-based reporting and application integration
 
-## 📊 GitHub Stats
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### Web Technologies
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=munshi-rishad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=munshi-rishad&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+- HTML, CSS, and JavaScript
+- Responsive interface fundamentals
+- Personal portfolio development
+- Academic web application projects
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=munshi-rishad&theme=tokyonight&hide_border=true&border_radius=12" alt="streak stats" />
+### Development Practices
 
-<br/>
+- Object-oriented programming
+- Problem solving and logical design
+- Git and GitHub version control
+- Continuous learning and project-based development
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=munshi-rishad&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=munshi-rishad&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+## Education & Activities
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/munshi-rishad/munshi-rishad/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+**B.Sc. in Computer Science & Engineering**  
+American International University-Bangladesh (AIUB)
+
+- Member of the **AIUB Computer Science Club**
+- Participate in coding challenges, mathematical problem solving, and case-study competitions
+- Involved in volunteering and community service
+- Founder of **Tech Concepts**, a YouTube channel focused on simplifying technology topics for students
+- Experience with video editing and digital design
 
 ---
 
-## 🤝 Connect With Me
+## Current Focus
+
+```text
+Software Development        -> Building practical, maintainable applications
+Object-Oriented Programming -> Strengthening design and implementation skills
+Database Systems            -> Improving SQL and data-driven application development
+Web Technologies            -> Expanding full-stack development knowledge
+Career Development          -> Preparing for software engineering internships
+```
+
+---
+
+## Contact
 
 <div align="center">
 
-<a href="mailto:najiyatislam2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-najiyatislam2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:reshad.munshi2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-reshad.munshi2004%40gmail.com-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://munshi-rishad.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-munshi--rishad.github.io-1E3A5F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
+
 <a href="https://github.com/munshi-rishad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://drive.google.com/file/d/1vJyxQUti96udwJtzz8WhRcNq-D7n-pR7/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/CV-View%20Resume-00C9A7?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -147,7 +160,11 @@
 ---
 
 <div align="center">
-<i>"I enjoy learning new technologies, solving problems, and building meaningful software solutions."</i>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:2C5364,100:00C9A7" />
+<i>Focused on learning, building, and improving through practical software projects.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0B1120,50:1E3A5F,100:0E7490" />
+
+</div>
