@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=245&color=0:0B1120,50:1E3A5F,100:0E7490&text=Najiat%20Islam%20Rishad&fontSize=43&fontColor=FFFFFF&fontAlignY=41&desc=Computer%20Science%20Student%20%7C%20Software%20Development%20%7C%20Database%20Systems&descAlignY=61&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=245&color=0:111827,48:2D6F8E,100:B76E79&text=Najiat%20Islam%20Rishad&fontSize=43&fontColor=FFFFFF&fontAlignY=41&desc=Computer%20Science%20Student%20%7C%20Software%20Development%20%7C%20Database%20Systems&descAlignY=61&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+AIUB;Building+Practical+Software+Solutions;C%23+%7C+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+SQL;Interested+in+Software+Engineering+and+Databases;Open+to+Internship+Opportunities" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=DFA1AA&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+AIUB;Building+Practical+Software+Solutions;C%23+%7C+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+SQL;Interested+in+Software+Engineering+and+Databases;Open+to+Internship+Opportunities" alt="Typing introduction" />
 
 <br/>
 
 <a href="https://munshi-rishad.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A5F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2D6F8E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/munshi-rishad">
-  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:reshad.munshi2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-B76E79?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -144,15 +144,15 @@ Career Development          -> Preparing for software engineering internships
 <div align="center">
 
 <a href="mailto:reshad.munshi2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-reshad.munshi2004%40gmail.com-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-reshad.munshi2004%40gmail.com-B76E79?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://munshi-rishad.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-munshi--rishad.github.io-1E3A5F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-munshi--rishad.github.io-2D6F8E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/munshi-rishad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-munshi--rishad-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -165,6 +165,6 @@ Career Development          -> Preparing for software engineering internships
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0B1120,50:1E3A5F,100:0E7490" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:111827,48:2D6F8E,100:B76E79" />
 
 </div>
