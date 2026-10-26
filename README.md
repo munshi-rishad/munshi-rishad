@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Email-Contact-B5606D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+<br/><br/>
+
+<i>"Building practical software, one project at a time."</i>
+
 </div>
 
 ---
@@ -35,31 +39,66 @@ I have built **desktop applications** in C# and Java, **web applications** in PH
 
 <div align="center">
 
-<img title="C++" src="https://skillicons.dev/icons?i=cpp" height="48"/>
-<img title="C" src="https://skillicons.dev/icons?i=c" height="48"/>
-<img title="C#" src="https://skillicons.dev/icons?i=cs" height="48"/>
-<img title="Java" src="https://skillicons.dev/icons?i=java" height="48"/>
-<img title="PHP" src="https://skillicons.dev/icons?i=php" height="48"/>
-<img title="R" src="https://skillicons.dev/icons?i=r" height="48"/>
-<img title="HTML" src="https://skillicons.dev/icons?i=html" height="48"/>
-<img title="CSS" src="https://skillicons.dev/icons?i=css" height="48"/>
-<img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="48"/>
+<b>Languages</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,php,r,html,css&perline=8" alt="Languages"/>
 
 <br/><br/>
 
-<img title="LaTeX" src="https://skillicons.dev/icons?i=latex" height="48"/>
-<img title="Arduino" src="https://skillicons.dev/icons?i=arduino" height="48"/>
-<img title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" height="48"/>
-<img title="VS Code" src="https://skillicons.dev/icons?i=vscode" height="48"/>
-<img title="Figma" src="https://skillicons.dev/icons?i=figma" height="48"/>
-<img title="Git" src="https://skillicons.dev/icons?i=git" height="48"/>
-<img title="GitHub" src="https://skillicons.dev/icons?i=github" height="48"/>
+<b>Tools and Platforms</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,latex,arduino,visualstudio,vscode,figma,git,github&perline=8" alt="Tools"/>
 
 <br/><br/>
 
 <b>Databases:</b> MySQL · Oracle Database · SQL Server
 <br/>
-<b>Tools:</b> RStudio · Code::Blocks · XAMPP · Proteus · NI Multisim · Trello
+<b>Also used:</b> RStudio · Code::Blocks · XAMPP · Proteus · NI Multisim · Trello
+
+</div>
+
+---
+
+## What I Work On
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=cs,java" height="40" alt="Desktop"/><br/>
+      <b>Desktop Applications</b><br/>
+      <sub>C# Windows Forms and Java Swing management systems</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=php,html" height="40" alt="Web"/><br/>
+      <b>Web Applications</b><br/>
+      <sub>PHP and MySQL websites with MVC structure</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="Database"/><br/>
+      <b>Databases</b><br/>
+      <sub>Oracle, MySQL and SQL Server design and queries</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="Graphics"/><br/>
+      <b>Computer Graphics</b><br/>
+      <sub>Animated 2D scenes with C++ OpenGL</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=r" height="40" alt="Data Science"/><br/>
+      <b>Data Science</b><br/>
+      <sub>Data cleaning, EDA and text classification in R</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Embedded"/><br/>
+      <b>Embedded Systems</b><br/>
+      <sub>Arduino sensors, alerts and automation</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -67,17 +106,25 @@ I have built **desktop applications** in C# and Java, **web applications** in PH
 
 ## Current Focus
 
-- Improving **problem-solving and programming fundamentals**
-- Building **desktop and web-based applications**
-- Working with **databases and CRUD operations**
-- Learning **data science** and **embedded systems**
-- Keeping my projects clean and well documented on **GitHub**
+<div align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Fundamentals-0F6D8C?style=flat-square" alt="Problem Solving"/>
+<img src="https://img.shields.io/badge/Desktop%20%26%20Web-Applications-B5606D?style=flat-square" alt="Applications"/>
+<img src="https://img.shields.io/badge/Databases-CRUD%20%26%20Design-24292F?style=flat-square" alt="Databases"/>
+<img src="https://img.shields.io/badge/Learning-Data%20Science-0F6D8C?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Learning-Embedded%20Systems-B5606D?style=flat-square" alt="Embedded Systems"/>
+
+</div>
 
 ---
 
 ## Contribution Snake
 
 <div align="center">
+
+<sub>Updated automatically every 12 hours</sub>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/munshi-rishad/munshi-rishad/output/github-snake-dark.svg" />
