@@ -59,51 +59,6 @@ I have built **desktop applications** in C# and Java, **web applications** in PH
 
 ---
 
-## What I Work On
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=cs,java" height="40" alt="Desktop"/><br/>
-      <b>Desktop Applications</b><br/>
-      <sub>C# Windows Forms and Java Swing management systems</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=php,html" height="40" alt="Web"/><br/>
-      <b>Web Applications</b><br/>
-      <sub>PHP and MySQL websites with MVC structure</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="Database"/><br/>
-      <b>Databases</b><br/>
-      <sub>Oracle, MySQL and SQL Server design and queries</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="Graphics"/><br/>
-      <b>Computer Graphics</b><br/>
-      <sub>Animated 2D scenes with C++ OpenGL</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=r" height="40" alt="Data Science"/><br/>
-      <b>Data Science</b><br/>
-      <sub>Data cleaning, EDA and text classification in R</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Embedded"/><br/>
-      <b>Embedded Systems</b><br/>
-      <sub>Arduino sensors, alerts and automation</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## Current Focus
 
 <div align="center">
