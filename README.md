@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,52:0F6D8C,100:C9848E&text=Najiat%20Islam%20Rishad&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=62&animation=fadeIn&fontAlign=50&stroke=0F172A&strokeWidth=2" width="100%" alt="Najiat Islam Rishad" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,52:0F6D8C,100:C9848E&text=Najiat%20Islam%20Rishad&fontSize=42&fontColor=FFFFFF&fontAlignY=50&fontAlign=50&animation=fadeIn&stroke=0F172A&strokeWidth=2" width="100%" alt="Najiat Islam Rishad" />
+
+<h3>Computer Science Student | Software Developer</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=5CC7D8&center=true&vCenter=true&width=760&lines=C%2B%2B+%7C+C%23+%7C+Java+%7C+PHP+%7C+C+%7C+R;HTML+%7C+CSS+%7C+SQL+%7C+LaTeX;Desktop+%7C+Web+%7C+Database+%7C+Embedded+Projects;Building+Practical+Software+Projects" />
