@@ -20,6 +20,7 @@
 <a href="mailto:reshad.munshi2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-B5606D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=munshi-rishad&label=Profile%20Views&color=0F6D8C&style=for-the-badge" alt="Profile views"/>
 
 <br/><br/>
 
