@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://munshi-rishad.github.io/" target="_blank">
+<a href="https://najiat-rishad.pages.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0F6D8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/munshi-rishad" target="_blank">
