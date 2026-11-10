@@ -40,34 +40,62 @@ At **American International University-Bangladesh (AIUB)**, I enjoy building pra
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-LANGUAGES-0E7FA8?style=for-the-badge" alt="Languages"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,php,r,html,css&perline=8" alt="Languages"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-TOOLS%20%26%20PLATFORMS-D9776D?style=for-the-badge" alt="Tools and Platforms"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,latex,arduino,visualstudio,vscode,figma,git,github&perline=8" alt="Tools"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-DATABASES-0E7FA8?style=for-the-badge" alt="Databases"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/-MySQL-0E7FA8?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/-Oracle%20Database-0E7FA8?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database"/>
-<img src="https://img.shields.io/badge/-SQL%20Server-0E7FA8?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-ALSO%20USED-D9776D?style=for-the-badge" alt="Also used"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/-RStudio-0A4D68?style=flat-square&logo=rstudioide&logoColor=white" alt="RStudio"/>
-<img src="https://img.shields.io/badge/-Code::Blocks-0A4D68?style=flat-square&logo=codeblocks&logoColor=white" alt="Code::Blocks"/>
-<img src="https://img.shields.io/badge/-XAMPP-0A4D68?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/>
-<img src="https://img.shields.io/badge/-Proteus-0A4D68?style=flat-square" alt="Proteus"/>
-<img src="https://img.shields.io/badge/-NI%20Multisim-0A4D68?style=flat-square" alt="NI Multisim"/>
-<img src="https://img.shields.io/badge/-Trello-0A4D68?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
+<table>
+  <tr>
+    <th align="center">Category</th>
+    <th align="center">Technologies</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Oracle%20Database-C74634?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database"/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools &amp; IDEs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+      <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=flat-square&logo=codeblocks&logoColor=white" alt="Code::Blocks"/>
+      <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white" alt="RStudio"/>
+      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design &amp; Docs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Hardware &amp; Simulation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+      <img src="https://img.shields.io/badge/Proteus-1F4E79?style=flat-square" alt="Proteus"/>
+      <img src="https://img.shields.io/badge/NI%20Multisim-0B5394?style=flat-square" alt="NI Multisim"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
