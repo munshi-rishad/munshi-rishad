@@ -17,6 +17,12 @@
 <a href="https://github.com/munshi-rishad" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub%20munshi--rishad-0B1F2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://www.linkedin.com/in/munshi-rishad" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn%20munshi--rishad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/munshirishad/" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 <a href="mailto:reshad.munshi2004@gmail.com">
   <img src="https://img.shields.io/badge/-Email%20Contact-D9776D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
