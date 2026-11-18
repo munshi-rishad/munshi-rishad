@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/munshirishad/" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="mailto:reshad.munshi2004@gmail.com">
+<a href="mailto:najiyatislam2004@gmail.com">
   <img src="https://img.shields.io/badge/-Email%20Contact-D9776D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=munshi-rishad&label=Profile%20Views&color=0E7FA8&labelColor=0E7FA8&style=for-the-badge" alt="Profile views"/>
