@@ -113,6 +113,7 @@ At **American International University-Bangladesh (AIUB)**, I enjoy building pra
 <img src="https://img.shields.io/badge/-Desktop%20%26%20Web%20Applications-D9776D?style=flat-square" alt="Applications"/>
 <img src="https://img.shields.io/badge/-Databases%20CRUD%20%26%20Design-0B1F2E?style=flat-square" alt="Databases"/>
 <img src="https://img.shields.io/badge/-Learning%20Data%20Science-35C3EE?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/-Learning%20ASP.NET%20Core%20MVC-512BD4?style=flat-square" alt="ASP.NET Core MVC"/>
 <img src="https://img.shields.io/badge/-Learning%20Embedded%20Systems-D9776D?style=flat-square" alt="Embedded Systems"/>
 
 </div>
